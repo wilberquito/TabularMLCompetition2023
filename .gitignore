@@ -1,0 +1,21 @@
+# ide
+.vscode/
+
+# python shit
+__pycache__/
+.ipynb_checkpoints/
+
+# data's folder
+Data/**.csv
+
+# enviromnent folders
+env/
+venv/
+
+# trained objects
+**.pickle
+
+# submit folder
+
+Submit/
+
